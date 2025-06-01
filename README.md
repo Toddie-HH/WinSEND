@@ -15,3 +15,6 @@ Es gibt allerdings keine Gewährleistung für Fehlfunktionen.
 
 **Maschineneinstellungen für meine 3018 PRO:**
 ![WinSEND-Maschinensetup_3018_PRO](https://github.com/user-attachments/assets/65bb33c3-9b7e-43c6-a19b-2fa5597038dd)
+
+**Makro - Editor:**
+![Makro_Editor](https://github.com/user-attachments/assets/fbdb66e3-2315-48de-95b7-9349d96c02b0)
