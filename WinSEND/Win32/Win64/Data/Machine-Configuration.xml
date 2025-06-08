@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSections>
+	<MachineData ComPort="3" BaudRate="115200" PollDelay="50"/>
+</DataSections>

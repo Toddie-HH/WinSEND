@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSections>
+	<Maschinen-Setup Parameter_0="10" Parameter_1="25" Parameter_2="0" Parameter_3="6" Parameter_4="0" Parameter_5="0" Parameter_6="0" Parameter_10="1" Parameter_11="0.01" Parameter_12="0.002" Parameter_13="0" Parameter_20="0" Parameter_21="1" Parameter_22="1" Parameter_23="3" Parameter_24="25" Parameter_25="250" Parameter_26="250" Parameter_27="1" Parameter_30="10000" Parameter_31="1000" Parameter_32="1" Parameter_100="800" Parameter_101="800" Parameter_102="800" Parameter_110="2500" Parameter_111="2500" Parameter_112="2500" Parameter_120="30" Parameter_121="30" Parameter_122="30" Parameter_130="300" Parameter_131="180" Parameter_132="77"/>
+</DataSections>

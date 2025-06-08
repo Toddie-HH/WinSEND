@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSections>
+	<MachineData XStep="10.000" XSpeed="1000" YStep="10.000" YSpeed="1000" ZStep="10.000" ZSpeed="1000" SpindleSpeed="8000" EnableLaserMode="FALSE" ProbeXPosX="0" ProbeXPosY="0" ProbeXPosZ="0" ProbeXMax="0" ProbeXSpeed="0" ProbeYPosX="0" ProbeYPosY="0" ProbeYPosZ="0" ProbeYMax="0" ProbeYSpeed="0" ProbeZPosX="0" ProbeZPosY="0" ProbeZPosZ="0" ProbeZMax="0" ProbeZSpeed="0" ToolDiameter="0" SafePosZ="5" ProbeMode="1" ProbeModeString="G38.2"/>
+	<Makros M06_Makro="" M06_Makro_Enabled="FALSE" M30_Makro="" M30_Makro_Enabled="FALSE" Referenzfahrt_Makro="$H" Referenzfahrt_Enabled="TRUE" Referenzfahrt_Makro_Enabled="TRUE"/>
+	<ProgramData EnableListBoxScrollBars="FALSE" ShowMoves="FALSE" ShowGrid="TRUE" MoveColor="5197615" PlotColor="65407" PointerColor="4678655" PreviewColor="8421504"/>
+	<CustomButtons Button_1_Enabled="FALSE" Button_1_Hint="" Button_1_ImageIndex="2" Button_1_GCode="&quot;&quot;" Button_2_Enabled="FALSE" Button_2_Hint="" Button_2_ImageIndex="2" Button_2_GCode="" Button_3_Enabled="FALSE" Button_3_Hint="" Button_3_ImageIndex="2" Button_3_GCode="" Button_4_Enabled="FALSE" Button_4_Hint="" Button_4_ImageIndex="2" Button_4_GCode="" Button_5_Enabled="FALSE" Button_5_Hint="" Button_5_ImageIndex="2" Button_5_GCode="" Button_6_Enabled="FALSE" Button_6_Hint="" Button_6_ImageIndex="2" Button_6_GCode=""/>
+</DataSections>
