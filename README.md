@@ -11,11 +11,15 @@ Es gibt allerdings keine Gewährleistung für Fehlfunktionen.
 **DANKE!**   
 </br></br>
 **Ansicht der GUI:** </br>
-![WinSEND](https://github.com/user-attachments/assets/f0de1c61-a954-423b-8b6a-a73b14497502)</br></br>
+![GUI](https://github.com/user-attachments/assets/bd049091-b810-45d6-a75f-1d3efdd3f576)
 
 **Maschineneinstellungen für meine 3018 PRO:** </br>
 ![WinSEND-Maschinensetup_3018_PRO](https://github.com/user-attachments/assets/65bb33c3-9b7e-43c6-a19b-2fa5597038dd)</br></br>
 
 **Makro - Editor:** </br>
-![Makro_Editor](https://github.com/user-attachments/assets/fbdb66e3-2315-48de-95b7-9349d96c02b0)
+![Makro_Editor](https://github.com/user-attachments/assets/fbdb66e3-2315-48de-95b7-9349d96c02b0)</br></br>
+
+**Editor für Benutzerfunktionen:** </br>
+![Benutzerfunktionen](https://github.com/user-attachments/assets/719c0b61-90c1-4cb2-ae15-fca831bc92c2)
+
 
