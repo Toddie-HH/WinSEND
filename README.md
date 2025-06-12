@@ -11,7 +11,7 @@ Es gibt allerdings keine Gewährleistung für Fehlfunktionen.
 **DANKE!**   
 </br></br>
 **Ansicht der GUI:** </br>
-![GUI](https://github.com/user-attachments/assets/bd049091-b810-45d6-a75f-1d3efdd3f576)
+![GUI](https://github.com/user-attachments/assets/87f3e2bd-0b0e-4e11-b16d-9efab972fe21)</br></br>
 
 **Maschineneinstellungen für meine 3018 PRO:** </br>
 ![WinSEND-Maschinensetup_3018_PRO](https://github.com/user-attachments/assets/65bb33c3-9b7e-43c6-a19b-2fa5597038dd)</br></br>
