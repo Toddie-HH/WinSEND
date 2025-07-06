@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSections>
-	<MachineData XStep="10.000" XSpeed="2500" YStep="10.000" YSpeed="2500" ZStep="10.000" ZSpeed="1250" SpindleSpeed="5000" EnableLaserMode="FALSE" ProbeXPosX="10" ProbeXPosY="50" ProbeXPosZ="-3" ProbeXMax="60" ProbeXSpeed="50" ProbeYPosX="50" ProbeYPosY="10" ProbeYPosZ="-3" ProbeYMax="60" ProbeYSpeed="50" ProbeZPosX="30" ProbeZPosY="30" ProbeZPosZ="-30" ProbezMax="50" ProbeZSpeed="50" ToolDiameter="3.175" ProbeZMax="-60" SafePosZ="5" ProbeMode="1" ProbeModeString="G38.2"/>
-	<ProgramData EnableListBoxScrollBars="FALSE" ShowMoves="FALSE" MoveColor="6908265" PlotColor="65280" PointerColor="4678655" PreviewColor="5197615" ShowGrid="TRUE"/>
-	<Makros M30_Makro="M05,&quot;G53 G1 Z0 F2000&quot;,&quot;G53 G1 X0 Y180 F2000&quot;" M30_Makro_Enabled="FALSE" M06_Makro="&quot;G53 G1 Z0 F2000&quot;,&quot;G53 G1 X150 Y0 F2000&quot;,M00,,," M06_Makro_Enabled="FALSE"/>
-</DataSections>
